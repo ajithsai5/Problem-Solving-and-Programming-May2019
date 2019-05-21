@@ -1,0 +1,99 @@
+    1  git --version
+    2  git --help
+    3  pwd
+    4  ls
+    5  cd Documents
+    6  pwd
+    7  ls
+    8  ls
+    9  cd desktop
+   10  pwd
+   11  ls
+   12  cd Problem Solving And Programming
+   13  cd problemsolvingandprogarmming
+   14  cd problem solving and progarmming
+   15  ls
+   16  cd 'Problem Solving And Programming'/
+   17  ls
+   18  pwd
+   19  cd
+   20  cd desktop
+   21  ls
+   22  rm -rf Problem\ Solving\ And\ Programming/
+   23  ls
+   24  mkdir ProblemSolvingAndProgramming
+   25  ls
+   26  cd ProblemSolvingAndProgramming/
+   27  mkdir git
+   28  ls
+   29  cd git
+   30  pwd
+   31  git config --list
+   32  git config user.name
+   33  git config user.email
+   34  touch file.txt
+   35  ls
+   36  git init
+   37  git status
+   38  git add file.txt
+   39  git status
+   40  comit -m "first "first file Comit"
+git status
+   41  commit -m "first "first file Commit"
+   42  git commit -m "first "first file Commit"
+   43  git commit -m "first file commit"
+   44  git status
+   45  echo "data in line 1"
+   46  cat file.txt
+   47  cat file1.txt
+   48  cat file.txt
+   49  cat file.txt
+   50  git status
+   51  echo "data in line 1"
+   52  echo "data in line 1">file.txt
+   53  cat file.txt
+   54  git status
+   55  git add file.txt
+   56  git status
+   57  git commit -m "2 file commit"
+   58  git status
+   59  git log
+   60  git log
+   61  ls
+   62  psw
+   63  pwd
+   64  touch file{1............10}.txt
+   65  ls
+   66  rm file{2...10}.txt
+   67  ls
+   68  touch file{1..10}.txt
+   69  ls
+   70  rm file{1..9}txt
+   71  rm file{1..9}.txt
+   72  ls
+   73  rm file{1............10}.txt
+   74  ls
+   75  rm file{10}.txt
+   76  rm file10.txt
+   77  ls
+   78  touch file{1..10}.txt
+   79  git status
+   80  git add file{1..10}.txt
+   81  git status
+   82  git clone 
+   83  git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019
+   84  git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019
+   85  ls
+   86  cd Gitam-Skill-Enhancement-May-2019/
+   87  ls
+   88  cd PythonProgramming
+   89  ls
+   90  cd NotebookTemplate/
+   91  ls
+   92  cd git
+   93  cd
+   94  cd desktop/ProblemSolvingAndProgramming/git/
+   95  cat file.txt
+   96  echo "data in line 2">>file.txt
+   97  cat file.txt
+   98  history 100 > git-commands.txt
